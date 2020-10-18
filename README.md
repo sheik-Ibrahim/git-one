@@ -1,6 +1,6 @@
 # Git One
 
-*Git Command Cheat Sheet*
+**Git Command Cheat Sheet**
 
 ## Commands
 ### Getting Started
